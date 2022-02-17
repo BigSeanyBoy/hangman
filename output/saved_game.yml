@@ -1,0 +1,31 @@
+---
+:secret_word:
+- s
+- u
+- f
+- f
+- i
+- c
+- i
+- e
+- n
+- t
+- l
+- y
+:remaining_attempts: 4
+:user_solution:
+- '_ '
+- '_ '
+- 'f '
+- 'f '
+- 'i '
+- 'c '
+- 'i '
+- '_ '
+- '_ '
+- '_ '
+- 'l '
+- '_ '
+:incorrect_letters:
+- a
+- q
